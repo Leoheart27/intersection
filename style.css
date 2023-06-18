@@ -24,6 +24,7 @@ header {
     justify-content: center;
     align-items: center;
     gap: 40px;
+    margin: 50px;
 }
 
 .container >* {
@@ -32,7 +33,7 @@ header {
     background-color: hsl(0, 0%, 80%);
     align-items: center;
     justify-content: center;
-    width: 250px;
+    width: 300px;
     padding: 10px;
     transform: translateX(100px);
     opacity: 0;
