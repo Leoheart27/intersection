@@ -2,4 +2,4 @@
 Quick example of intersection observer with java script
 
 #link
-leoheart27
+https://leoheart27.github.io/intersection/
