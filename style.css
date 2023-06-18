@@ -24,7 +24,6 @@ header {
     justify-content: center;
     align-items: center;
     gap: 40px;
-    margin: 50px;
 }
 
 .container >* {
